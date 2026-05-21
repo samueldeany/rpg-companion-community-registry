@@ -1545,5 +1545,18 @@
     "github_repo": "turtl230-code/Lichdom-ascension-feats",
     "repo_url": "https://turtl230-code.github.io/Lichdom-ascension-feats/",
     "has_system": false
+  },
+  {
+    "name": "Samuels-Arcanum-",
+    "description": "Additional elementalspells, feats and more. Generally taken from Reddit with improved balancing for use in classic d&d",
+    "tags": [
+      "5e",
+      "5e2024",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "samueldeany/Samuels-Arcanum-",
+    "repo_url": "https://samueldeany.github.io/Samuels-Arcanum-/",
+    "has_system": false
   }
 ]
